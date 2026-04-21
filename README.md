@@ -1,4 +1,4 @@
-# Interactive Stock Comparison Tool
+# Stock Comparison Tool
 
 ## 1. Problem & User
 
